@@ -1,0 +1,24 @@
+{
+  "name": "cloud-server",
+  "version": "1.0.0",
+  "description": "[Herouko](https://reem-basic-api-server.herokuapp.com/food) # Github : [Github](https://github.com/reem-alqurm/basic-api-server) # pull request : [Pull Request](https://github.com/reem-alqurm/basic-api-server/pulls?q=is%3Apr+is%3Aclosed) # Github actions : [Github Actions](https://github.com/reem-alqurm/basic-api-server/actions)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reem-alqurm/cloud-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reem-alqurm/cloud-server/issues"
+  },
+  "homepage": "https://github.com/reem-alqurm/cloud-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
